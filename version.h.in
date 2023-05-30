@@ -1,0 +1,10 @@
+#ifndef MC-Toolkit_VERSION_H_FILE
+#define MC-Toolkit_VERSION_H_FILE
+
+#define MC-Toolkit_VERSION         "@MC-Toolkit_SEMVER_VERSION@"
+#define MC-Toolkit_VERSION_INTEGER  @MC-Toolkit_SEMVER_INTEGER@
+#define MC-Toolkit_VERSION_MAJOR    @MC-Toolkit_SEMVER_MAJOR@
+#define MC-Toolkit_VERSION_MINOR    @MC-Toolkit_SEMVER_MINOR@
+#define MC-Toolkit_VERSION_PATCH    @MC-Toolkit_SEMVER_PATCH@
+
+#endif // MC-Toolkit_VERSION_H_FILE

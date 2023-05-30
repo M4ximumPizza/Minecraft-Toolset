@@ -1,0 +1,9 @@
+// suppression errors caused by contributed code
+*:*/leveldb-mcpe/*
+
+// suppression two information messages
+unmatchedSuppression
+missingIncludeSystem
+
+// to suppress false positives from unittests
+unusedFunction

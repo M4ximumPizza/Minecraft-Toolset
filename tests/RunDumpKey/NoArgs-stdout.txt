@@ -1,0 +1,2 @@
+^Usage: [^
+]*MC-Toolkit(.exe)? dumpkey <minecraft_world_dir> <key> > output.bin

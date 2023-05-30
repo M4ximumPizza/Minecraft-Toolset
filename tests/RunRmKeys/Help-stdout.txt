@@ -1,0 +1,4 @@
+Usage: [^
+]*MC-Toolkit(.exe)? rmkeys <minecraft_world_dir> < keys.txt
+       [^
+]*MC-Toolkit(.exe)? rmkeys <minecraft_world_dir> <key> <key> ...

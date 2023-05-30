@@ -1,0 +1,2 @@
+^ERROR: Command 'noexist' not found. Try '[^
+]*MC-Toolkit(.exe)? help' for a list of commands.
